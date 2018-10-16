@@ -14,8 +14,8 @@ This will install all the dependencies needed for the exercises.
 
 ## 💎 Gems
 
-gem 'nokogiri', ' 1.8.5' <br>
-gem 'awesome_print', '1.2.0'
+gem 'color_text' <br>
+gem 'pry'
 
 ## :european_post_office: The Strasbourg Crew 💪
 Done with @zOmegad, @BrokenPirate, @mxrch, and myself @OwwllMan
