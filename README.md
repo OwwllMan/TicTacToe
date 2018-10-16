@@ -12,6 +12,11 @@ $ bundle install
 ```
 This will install all the dependencies needed for the exercises.
 
+Than you can run the programme with 
+```sh
+$ ruby tictac.rb
+```
+
 ## 💎 Gems
 
 gem 'color_text' <br>
